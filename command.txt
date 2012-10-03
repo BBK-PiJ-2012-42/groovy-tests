@@ -1,1 +1,0 @@
-path "%PATH%;h:\git\bin"
